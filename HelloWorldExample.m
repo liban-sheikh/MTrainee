@@ -1,9 +1,10 @@
-ROUTINE XSHCTEST
-; TITLE:   XSHCTEST
-; PURPOSE:
-; AUTHOR:  Liban Sheikh
-;
-; REVISIONS:
-helloWorld() 
-w !,"Hello World" 
-q
+  ;---------
+	; SCOPE:
+	; DESCRIPTION:  Hello World Example
+	; RETURNS:      Printed Statement
+	; ASSUMES:      Nothing
+	; DECLARES:     Nothing
+	;---------
+HelloWorld() ;
+	w !,"Hello World"
+	q
