@@ -1,8 +1,9 @@
 ROUTINE XSHCTEST
-    ; TITLE:   XSHCTEST
-    ; PURPOSE:
-	; AUTHOR:  Liban Sheikh
-	;
-	; REVISIONS:
+; TITLE:   XSHCTEST
+; PURPOSE:
+; AUTHOR:  Liban Sheikh
+;
+; REVISIONS:
 helloWorld() 
-	w !,"Hello World" q
+w !,"Hello World" 
+q
