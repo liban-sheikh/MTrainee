@@ -1,3 +1,3 @@
 HelloWorldExample
-	w !, "Hello World"
-	q
+	write !, "Hello World"
+	quit
